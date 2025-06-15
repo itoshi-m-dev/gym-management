@@ -1,0 +1,25 @@
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Novo instrutor na academia: Ava Max 
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Novo instrutor na academia: Ava Max 
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Novo instrutor na academia: Ava Max 
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Novo instrutor na academia: Ava Max 
+Notificação para Calis : Novo exercicio na academia: Cadeira Extensora
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Novo instrutor na academia: Ava Max 
+Notificação para Calis : Novo exercicio na academia: Cadeira Extensora
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Novo instrutor na academia: Ava Max 
+Notificação para Calis : Novo exercicio na academia: Cadeira Extensora
+Notificação para Calis : Aluno novo na academia: Joao
+Notificação para Calis : Novo instrutor na academia: Ava Max 
+Notificação para Calis : Novo exercicio na academia: Cadeira Extensora
+Notificação para Panobianco : Aluno novo na academia: <__main__.Aluno object at 0x0000024AE92BD1D0>
+Notificação para Panobianco : Novo instrutor na academia: <__main__.Instrutor object at 0x0000024AE92BD250> 
+Notificação para Panobianco : Novo exercicio na academia: <__main__.Exercicio object at 0x0000024AE92BD290>
+Notificação para Panobianco : Aluno novo na academia: Joao
+Notificação para Panobianco : Novo instrutor na academia: Ava Max 
+Notificação para Panobianco : Novo exercicio na academia: Cadeira Extensora
